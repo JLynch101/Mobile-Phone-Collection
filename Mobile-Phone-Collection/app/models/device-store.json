@@ -1,0 +1,68 @@
+{
+  "deviceCollection": [
+    {
+      "id": "44d8807e-3583-4514-97fb-a3b5dde90e7d",
+      "userid": "4e2e3421-0923-499f-8cfb-475bd439d3b0",
+      "maker": "Apple",
+      "phones": [
+        {
+          "id": "0beb1ef5-7efd-403e-a270-5806aa349612",
+          "title": "IPHONE 6 ",
+          "memory": "16GB"
+        },
+        {
+          "id": "61dfd4dc-83b9-40d9-a916-19dbfafe3104",
+          "title": "IPHONE 8",
+          "memory": "128GB"
+        }
+      ]
+    },
+    {
+      "id": "fcd189d8-ba63-4a7a-b9da-a663ad45abd2",
+      "userid": "4e2e3421-0923-499f-8cfb-475bd439d3b0",
+      "maker": "Samsung",
+      "phones": [
+        {
+          "id": "50ec315b-b691-4d5c-8fd7-6a4780491512",
+          "title": "Samsung Fold",
+          "memory": "1TB"
+        },
+        {
+          "id": "a7122356-4cf4-49ae-97a0-862017e6dbb6",
+          "title": "Samsung S9",
+          "memory": "500GB"
+        }
+      ]
+    },
+    {
+      "id": "d2f0a1f5-604e-4d81-bf45-13e64e305a1e",
+      "userid": "4e2e3421-0923-499f-8cfb-475bd439d3b0",
+      "maker": "Samsung",
+      "phones": []
+    },
+    {
+      "id": "7c734317-a1f3-44ad-9169-dc5e48b8d72e",
+      "userid": "d4700b19-a4af-4102-8a62-a6f020d45381",
+      "maker": "Samsung",
+      "phones": []
+    },
+    {
+      "id": "eea38e58-5162-4987-947f-b61ed4dfe703",
+      "userid": "98ffce0b-a4b1-427e-8e23-5d7f9756ff2d",
+      "maker": "Samsung",
+      "phones": [
+        {
+          "id": "d41ed3e0-143b-4ca2-b30c-a12da97d5625",
+          "title": "Iphone 6",
+          "memory": "ad"
+        }
+      ]
+    },
+    {
+      "id": "8249a9e3-0919-4c1e-ae36-604c5e73ae59",
+      "userid": "98ffce0b-a4b1-427e-8e23-5d7f9756ff2d",
+      "maker": "apple",
+      "phones": []
+    }
+  ]
+}

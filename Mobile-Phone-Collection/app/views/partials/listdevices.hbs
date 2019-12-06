@@ -1,0 +1,9 @@
+{{#each devices}}
+  <section class="ui segment">
+    <h2 class="ui header">
+      {{maker}}
+    </h2>
+    <a href="/device/{{id}}"> <i class="ui folder open icon"></i> </a>
+    <a href="/dashboard/deletedevice/{{id}}" class="deldevice"> <i class="ui trash icon"></i> </a>
+  </section>
+{{/each}}

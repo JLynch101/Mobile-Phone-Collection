@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "firstName": "Joe",
+      "lastName": "Lynch",
+      "email": "mightylynch101@gmail.com",
+      "password": "halo3",
+      "id": "98ffce0b-a4b1-427e-8e23-5d7f9756ff2d"
+    },
+    {
+      "firstName": "Gavin ",
+      "lastName": "Rossiter",
+      "email": "gavinrossiter0@gmail.com",
+      "password": "Heaven247!",
+      "id": "d4700b19-a4af-4102-8a62-a6f020d45381"
+    }
+  ]
+}
